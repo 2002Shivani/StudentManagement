@@ -1,5 +1,5 @@
 # StudentManagement
-Example of the modular format in java.This is the basic project which perform CURD operation in java using JDBC and Modular format.
+Example of the modular format in java.This is the basic project which perform CURD operation in java using JDBC and Modular approach.
 # Features
 1.Add Student Data
 2.Read Student Data
